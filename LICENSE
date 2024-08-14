@@ -19,3 +19,35 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+# Crypto Recovery Project Disclaimer and License
+
+## Disclaimer
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+
+### Important Notes:
+
+1. BETA SOFTWARE: This project is in beta stage. It may contain bugs or incomplete features. Use at your own risk.
+
+2. BACKUP WARNING: ALWAYS create backups of your wallet files and any other cryptocurrency-related data before using this software. Failure to do so may result in permanent loss of access to your cryptocurrencies.
+
+3. NO GUARANTEE OF RECOVERY: While this software aims to assist in the recovery of cryptocurrency wallets and assets, there is no guarantee of successful recovery in all cases.
+
+4. SECURITY: This software does not replace the need for proper security practices. Users are responsible for maintaining the security of their recovered assets.
+
+5. NOT FINANCIAL ADVICE: This software does not provide financial, investment, legal, or tax advice. Consult with appropriate professionals for such advice.
+
+6. USER RESPONSIBILITY: The user is solely responsible for any actions taken with this software and their consequences.
+
+## License
+
+Copyright (c) [Year] [Your Name or Organization]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
